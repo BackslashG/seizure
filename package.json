@@ -1,0 +1,9 @@
+{
+  "type":"module",
+  "dependencies": {
+    "ascii-art": "^2.8.5",
+    "axios": "^1.7.3",
+    "chalk": "^5.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
