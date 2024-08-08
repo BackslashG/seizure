@@ -1,3 +1,4 @@
+> this is my first node.js project so it may suck dick lol
 # ![image](https://github.com/user-attachments/assets/be5bd27a-50bb-4586-9c00-0eec8f657146)
 Seizure is a tool for Discord which rapidly switches the theme, meant for use to annoy users.
 
